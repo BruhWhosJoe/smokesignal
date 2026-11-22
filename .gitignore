@@ -1,0 +1,21 @@
+# Raw EPA downloads (about 75 MB). The notebook re-downloads these automatically.
+data/*.zip
+
+# Jupyter / Colab
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+
+# Gradio
+.gradio/
+flagged/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
