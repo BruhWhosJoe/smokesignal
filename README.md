@@ -3,9 +3,11 @@
 **Excellence Award, Veritas AI International High School Hackathon 2026** (1,000+ projects from 75+ countries)
 
 **Track:** AI + Climate (built on suggested project brief 4.3.2, Next-day air quality forecast)
+
 **Team:** Jonathan Wang (solo)
 
 **Run it:** [Open in Google Colab](https://colab.research.google.com/drive/1emm4f8--O7a_WYnp9VjEMsoI1Mgtr4Rv), then Runtime → Run all. The first run downloads about 75 MB of EPA data and takes a few minutes. No API keys needed.
+
 **Demo video:** [`SmokeSignal_demo.mp4`](SmokeSignal_demo.mp4) (1:52)
 
 ## The problem
