@@ -68,7 +68,7 @@ If the two CSVs are in `data/`, the notebook uses them and skips the download. D
 - Open-Meteo Historical Weather API: https://open-meteo.com/en/docs/historical-weather-api (weather data from Open-Meteo.com, used under CC BY 4.0)
 - EPA fact sheet on the 2024 AQI breakpoints for PM2.5: https://www.epa.gov/system/files/documents/2024-02/pm-naaqs-air-quality-index-fact-sheet.pdf
 - Libraries: pandas, NumPy, scikit-learn, Matplotlib, requests, Gradio (optional)
-- AI tools: I used Claude (Opus 5.5 and Fable 5.2). I chose the climate track, and Claude suggested the project idea and found the EPA data files. Claude wrote most of the code, did the debugging and drafted the text. I ran everything myself, checked the outputs, and edited the explanations and write-up.
+- AI tools: I used Claude (Opus 5.5 and Fable 5.2). I chose the climate track, and Claude suggested the project idea and found the EPA data files.
 
 ## License
 
